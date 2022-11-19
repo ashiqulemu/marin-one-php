@@ -4,9 +4,9 @@
             <div class="heading">features</div>
             <a href="/features/analyze">CRM Easy</a>
             <a href="/features/automate">Sales Management</a>
-            <a href="/features/optimize">Quotation</a>
-            <a href="/features/connect">Invoicing</a>
-            <a href="/features/customize">Inventory</a>
+            <a href="./quotation.php">Quotation</a>
+            <a href="./invoicing.php">Invoicing</a>
+            <a href="./inventory.php">Inventory</a>
             <a href="./e-commerce.php">E-commerce</a>
             <a href="./e-pos.php">EPOS</a>
             <a href="/features">All Features</a>
@@ -21,7 +21,7 @@
             </a>
             <a href="/solutions/software-development">Software Development</a>
             <a href="/solutions/apps">Apps</a>
-            <a href="/solutions/networking">Networking Infrastructure</a>
+
             <a href="/solutions/datacentre">Data Centre Solutions and Decommissioning</a>
         </div>
         <div class="items">
@@ -35,7 +35,7 @@
             <a href="/solutions/retail-and-marketplace-advertising">Retail</a>
 
             <a href="/industries/technology">Technology</a>
-            <a href="/industries/telcom">Telecomminications</a>
+
             <a href="/industries/travel">Travel</a>
         </div>
         <div class="items">

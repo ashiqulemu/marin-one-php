@@ -247,7 +247,7 @@ html {
 .innerTitle {
     font-family: 'OpensansBold';
     font-size: 2.35rem;
-    margin-bottom: 30px;
+    margin-bottom: 20px; 
     line-height: 1.1;
     color: $primary;
 
@@ -1836,5 +1836,32 @@ footer {
         font-weight: 500;
         font-family: "Opensans";
 
+    }
+}
+
+
+.list-group-custom{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    column-gap: 11px;
+    row-gap: 9px; 
+    padding: 0;
+    .list-group-item-custom{
+        flex-basis: 23%;
+        @media(max-width:768px){
+            flex-basis: 48%;
+        }
+        padding: 6px 11px;
+        background: aliceblue;
+        font-size: 13px;
+        font-weight: bold;
+        color: #15467e;
+        border-left: 3px solid #8080801a;
+        // &:hover{
+        //     background: $secondary;
+        //      color: $primary;
+        //      font-weight: normal;
+        // }
     }
 }

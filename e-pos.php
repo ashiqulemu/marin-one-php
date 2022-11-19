@@ -36,7 +36,7 @@
                 <div class="col-lg-4 ">
                     <div class="infoBox text-white">
                         <div class="icon">
-                            <img class="img-fluid" src="./images/speedometer.png" />
+                            <img class="img-fluid" src="./images/dabit.png" />
                         </div>
                         <h5 class="text-light fw-bold mt-4"> Debit and credit card </h5>
                         <div class="boxText openLight"> Accept Visa, Mastercard, American Express and rewards cards –
@@ -47,7 +47,7 @@
                 <div class="col-lg-4 ">
                     <div class="infoBox text-white">
                         <div class="icon">
-                            <img class="img-fluid" src="./images/realtime.png" />
+                            <img class="img-fluid" src="./images/gpay.png" />
                         </div>
                         <h5 class="text-light fw-bold mt-4">Apple pay and google pay</h5>
                         <div class="boxText openLight">Ezzha Reader lets you accept chip and PIN cards, Apple Pay and
@@ -57,7 +57,7 @@
                 <div class="col-lg-4">
                     <div class="infoBox text-white">
                         <div class="icon">
-                            <img class="img-fluid" src="./images/speed.png" />
+                            <img class="img-fluid" src="./images/g-card.png" />
                         </div>
                         <h5 class="text-light fw-bold mt-4"> Digital gift cards </h5>
                         <div class="boxText openLight">Now eGift Cards are integrated into your POS system and Ezzha
@@ -69,7 +69,7 @@
                 <div class="col-lg-4">
                     <div class="infoBox text-white">
                         <div class="icon">
-                            <img class="img-fluid" src="./images/speed.png" />
+                            <img class="img-fluid" src="./images/gift.png" />
                         </div>
                         <h5 class="text-light fw-bold mt-4"> Card on File </h5>
                         <div class="boxText openLight">Store payment details for your regulars. Charge them with a tap
@@ -80,7 +80,7 @@
                 <div class="col-lg-4">
                     <div class="infoBox text-white">
                         <div class="icon">
-                            <img class="img-fluid" src="./images/speed.png" />
+                            <img class="img-fluid" src="./images/invoice.png" />
                         </div>
                         <h5 class="text-light fw-bold mt-4"> Invoices </h5>
                         <div class="boxText openLight">Send custom invoices directly from your POS on a mobile device or
@@ -91,7 +91,7 @@
                 <div class="col-lg-4">
                     <div class="infoBox text-white">
                         <div class="icon">
-                            <img class="img-fluid" src="./images/speed.png" />
+                            <img class="img-fluid" src="./images/pricing.png" />
                         </div>
                         <h5 class="text-light fw-bold mt-4"> Transparent pricing </h5>
                         <div class="boxText openLight">No complicated scenario for intemized bills. There are no
@@ -103,7 +103,7 @@
                 <div class="col-lg-4">
                     <div class="infoBox text-white">
                         <div class="icon">
-                            <img class="img-fluid" src="./images/speed.png" />
+                            <img class="img-fluid" src="./images/transfer.png" />
                         </div>
                         <h5 class="text-light fw-bold mt-4">Easy transfer </h5>
                         <div class="boxText openLight">It's absolutely easy for transfers to your bank account the next
@@ -114,7 +114,7 @@
                 <div class="col-lg-4">
                     <div class="infoBox text-white">
                         <div class="icon">
-                            <img class="img-fluid" src="./images/speed.png" />
+                            <img class="img-fluid" src="./images/refund.png" />
                         </div>
                         <h5 class="text-light fw-bold mt-4">Easy refund process</h5>
                         <div class="boxText openLight">Trigger the customized process or itemised refunds for payments
@@ -137,7 +137,7 @@
                     <div class="col-lg-4 ">
                         <div class="infoBox text-white">
                             <div class="icon">
-                                <img class="img-fluid" src="./images/expert.png" />
+                                <img class="img-fluid" src="./images/customize.png" />
                             </div>
                             <h5 class="text-light fw-bold mt-4">Item conditioners</h5>
                             <div class="boxText openLight">Customise your items with variations, add-ons or special
@@ -148,7 +148,7 @@
                     <div class="col-lg-4 ">
                         <div class="infoBox text-white">
                             <div class="icon">
-                                <img class="img-fluid" src="./images/optimize.png" />
+                                <img class="img-fluid" src="./images/button.png" />
                             </div>
                             <h5 class="text-light fw-bold mt-4">Quicker Keys</h5>
                             <div class="boxText openLight">Create custom buttons for the most popular items and speed up
@@ -159,7 +159,7 @@
                     <div class="col-lg-4 ">
                         <div class="infoBox text-white">
                             <div class="icon">
-                                <img class="img-fluid" src="./images/idea.png" />
+                                <img class="img-fluid" src="./images/search.png" />
                             </div>
                             <h5 class="text-light fw-bold mt-4">Prompt search</h5>
                             <div class="boxText openLight">Quickly add products to the sale by typing in keywords or
@@ -169,7 +169,7 @@
                     <div class="col-lg-4 ">
                         <div class="infoBox text-white">
                             <div class="icon">
-                                <img class="img-fluid" src="./images/idea.png" />
+                                <img class="img-fluid" src="./images/categories.png" />
                             </div>
                             <h5 class="text-light fw-bold mt-4">Categories</h5>
                             <div class="boxText openLight">Group items together in categories to help you organise your
@@ -179,7 +179,7 @@
                     <div class="col-lg-4 ">
                         <div class="infoBox text-white">
                             <div class="icon">
-                                <img class="img-fluid" src="./images/idea.png" />
+                                <img class="img-fluid" src="./images/import.png" />
                             </div>
                             <h5 class="text-light fw-bold mt-4">Item import</h5>
                             <div class="boxText openLight">Save some time by uploading and managing multiple items at
@@ -189,7 +189,7 @@
                     <div class="col-lg-4 ">
                         <div class="infoBox text-white">
                             <div class="icon">
-                                <img class="img-fluid" src="./images/idea.png" />
+                                <img class="img-fluid" src="./images/order.png" />
                             </div>
                             <h5 class="text-light fw-bold mt-4">Order Manager</h5>
                             <div class="boxText openLight">To manage all third-party delivery vendors to pick up orders
@@ -199,7 +199,7 @@
                     <div class="col-lg-4 ">
                         <div class="infoBox text-white">
                             <div class="icon">
-                                <img class="img-fluid" src="./images/idea.png" />
+                                <img class="img-fluid" src="./images/note.png" />
                             </div>
                             <h5 class="text-light fw-bold mt-4">Line item and sale notes</h5>
                             <div class="boxText openLight">Add notes that will appear on your customers’ receipts to let
@@ -209,7 +209,7 @@
                     <div class="col-lg-4 ">
                         <div class="infoBox text-white">
                             <div class="icon">
-                                <img class="img-fluid" src="./images/idea.png" />
+                                <img class="img-fluid" src="./images/discount.png" />
                             </div>
                             <h5 class="text-light fw-bold mt-4">Discounts</h5>
                             <div class="boxText openLight">Create automatic discounts for specific items, categories,
@@ -233,7 +233,7 @@
                     <div class="col-lg-4 ">
                         <div class="infoBox text-white">
                             <div class="icon">
-                                <img class="img-fluid" src="./images/expert.png" />
+                                <img class="img-fluid" src="./images/receipet.png" />
                             </div>
                             <h5 class="text-light fw-bold mt-4">Custom receipts</h5>
                             <div class="boxText openLight">Customize receipts with your logo and website. Create receipt
@@ -244,7 +244,7 @@
                     <div class="col-lg-4 ">
                         <div class="infoBox text-white">
                             <div class="icon">
-                                <img class="img-fluid" src="./images/optimize.png" />
+                                <img class="img-fluid" src="./images/receipets.png" />
                             </div>
                             <h5 class="text-light fw-bold mt-4">Receipts</h5>
                             <div class="boxText openLight">Provide customers with digital (text message or email) or
@@ -256,7 +256,7 @@
                     <div class="col-lg-4 ">
                         <div class="infoBox text-white">
                             <div class="icon">
-                                <img class="img-fluid" src="./images/idea.png" />
+                                <img class="img-fluid" src="./images/check-screen.png" />
                             </div>
                             <h5 class="text-light fw-bold mt-4">Tenderly custom</h5>
                             <div class="boxText openLight">Now you can customise your checkout screen to better fit your
@@ -266,11 +266,58 @@
                     <div class="col-lg-4 ">
                         <div class="infoBox text-white">
                             <div class="icon">
-                                <img class="img-fluid" src="./images/idea.png" />
+                                <img class="img-fluid" src="./images/decimal.png" />
                             </div>
                             <h5 class="text-light fw-bold mt-4">Decimal quantities</h5>
                             <div class="boxText openLight">Customise for your business by selling items by weight,
                                 length or any other unit of measure.</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="innerTitle txt-secondary fs-3 ">
+                    Customer service
+                </div>
+                <div class="innerText mb-3 w-75 text-center mx-auto">
+                    Though transaction is a finalized agreement between a buyer and a seller, but it can get a bit more
+                    complicated from an accounting perspective.
+                </div>
+                <h4 class="subText text-center">For secure and defined transactions</h4>
+
+                <div class="row mt-5 mx-auto px-0">
+                    <div class="my-4"> </div>
+                    <div class="col-lg-4 ">
+                        <div class="infoBox text-white">
+                            <div class="icon">
+                                <img class="img-fluid" src="./images/contact.png" />
+                            </div>
+                            <h5 class="text-light fw-bold mt-4">Customer Directory</h5>
+                            <div class="boxText openLight">Ezzha’s Customer directory is a contact management tool for
+                                storing customer information, viewing how they interact with your business and engaging
+                                them—all from one place.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 ">
+                        <div class="infoBox text-white">
+                            <div class="icon">
+                                <img class="img-fluid" src="./images/order-note.png" />
+                            </div>
+                            <h5 class="text-light fw-bold mt-4">Order notes</h5>
+                            <div class="boxText openLight">With Ezzha now you can add notes to items or custom amounts
+                                at the time of sale to minimise future questions or disputes.
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 ">
+                        <div class="infoBox text-white">
+                            <div class="icon">
+                                <img class="img-fluid" src="./images/feedback.png" />
+                            </div>
+                            <h5 class="text-light fw-bold mt-4">Feedback</h5>
+                            <div class="boxText openLight">Customer can now provide feedback through digital receipts
+                                in their email and start a private conversation with your business. </div>
                         </div>
                     </div>
                 </div>
@@ -282,62 +329,14 @@
 
 
 
-<section class="">
-    <div class="container">
-        <div class="row col-lg-11 mx-auto">
-
-            <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
-                <div>
-                    <!-- <h4 class="subtext">ANALYZE</h4> -->
-                    <div class="innerTitle">
-                        An easy way to manage your eCommerce with ease
-                    </div>
-                    <div class="innerText ">
-                        Now every thing will be controlled seamlessly from a single dashboard with centralized inventory
-                        management, pricing, and more.
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/Shop giveaway-rafiki.png" class="w-100 mx-auto" alt="">
-            </div>
-        </div>
-    </div>
-</section>
-<section class="">
-    <div class="container">
-        <div class="row col-lg-11 mx-auto">
-            <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/flat-illustration-of-social-media-and-gadget-used-for-print-app-web-advertising-etc-free-vector.webp"
-                    class="w-100 mx-auto" alt="">
-            </div>
-            <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
-                <div>
-                    <!-- <h4 class="subtext">ANALYZE</h4> -->
-                    <div class="innerTitle">
-                        eManage- anywhere from mobile app
-                    </div>
-                    <div class="innerText ">
-                        Add new products with the simple snap of a pic, share across on Facebook and Instagram, accepts
-                        payments directly in the app, and manage orders right from the palm of your hand.
-                    </div>
-
-                </div>
-            </div>
-
-        </div>
-    </div>
-</section>
-
 <section class="introTitle">
     <div class="container">
         <div class="col-lg-9 mx-auto fw-bold py-4">
-            <h1 class="innerTitle">Fast and secure payments</h1>
-            <div class="innerText text-center mb-5">
-                Choose from stripe to get more than 50 other payment options to accept credit card payments quickly and
-                securely.
+            <h1 class="innerTitle">Operations of POS</h1>
+            <div class="innerText text-center">
+                Keep track of your sales, inventory-all in one system
             </div>
-            <img src="./images/mobile-payment-online-service-1670651-1422271.jpg" class="mx-auto img-fluid w-50">
+            <img src="./images/pos.svg" class="mx-auto img-fluid w-75">
         </div>
     </div>
 </section>
@@ -345,18 +344,17 @@
     <div class="container">
         <div class="row col-lg-11 mx-auto">
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/illustration-6-83.svg" class="w-100 mx-auto" alt="">
+                <img src="./images/data4.png" class="w-100 mx-auto" alt="">
             </div>
             <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                 <div>
 
                     <div class="innerTitle">
-                        Shipping that dedicates to you
+                        Dashboard
                     </div>
                     <div class="innerText ">
-                        Choose as many shipping rates and carriers as you like to provide you and your customers with
-                        the best experience. Help your customers choose the right shipping method with real-time
-                        shipping rates that let them see costs best on their location.
+                        Discover insights of your business with Ezzha’s analytics and advanced reporting options and
+                        easily export your data to add it to your own.
                     </div>
 
                 </div>
@@ -365,25 +363,23 @@
         </div>
     </div>
 </section>
-<section class="">
+<section class="default">
     <div class="container">
         <div class="row col-lg-11 mx-auto">
 
             <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                 <div>
-
                     <div class="innerTitle">
-                        Stand out with dynamic e-mail inbox
+                        In app sales report
                     </div>
                     <div class="innerText ">
-                        Dare of remembering the past with static email content. Then our dynamic emails deliver accurate
-                        real time information at every open, from order status updates to abandoned cart communications,
-                        and keep your customer up-to-date with dynamic email.
+                        Access over top line metrics such as gross sales, sales count and refunds according time period-
+                        in seconds.
                     </div>
                 </div>
             </div>
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/email.png" class="w-100 mx-auto" alt="">
+                <img src="./images/partners/15.png" class="w-100 mx-auto" alt="">
             </div>
         </div>
     </div>
@@ -392,21 +388,80 @@
 <section class=" ">
     <div class="container">
         <div class="row col-lg-11 mx-auto">
-            <div class="col-lg-6 py-5 mx-auto text-center">
-                <img src="./images/Enter OTP-rafiki.svg" alt="" class="img-fluid w-100">
+            <div class="col-lg-6 mx-auto text-center">
+                <img src="./images/partners/28.svg" alt="" class="img-fluid w-100">
             </div>
             <div class="col-lg-6 py-5 mx-auto d-flex align-items-center justify-content-center">
                 <div>
-                    <h2 class="innerTitle fw-bold mb-0 fs-2">Trust worthy for your security </h2>
-                    <p class="innerText mb-0 mt-2">All credit cards and transaction data are transmitted through the
-                        same secure HTTPS protocols used by the world’s largest banks, so merchant and customer data
-                        always stay secure.</p>
+                    <h2 class="innerTitle fw-bold mb-0 fs-2">Inventory management </h2>
+                    <p class="innerText mb-0 mt-2">Keep track of inventory from in-person and online sales very
+                        automatically that synced in your POS.</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class=" ">
+    <div class="container">
+        <div class="row col-lg-11 mx-auto">
+            <div class="col-lg-6 py-5 mx-auto d-flex align-items-center justify-content-center">
+                <div>
+                    <h2 class="innerTitle fw-bold mb-0 fs-2">Stock alert </h2>
+                    <p class="innerText mb-0 mt-2">Receiving a daily email detailing items that are low or out of stock
+                        that makes you run out again.</p>
+                </div>
+            </div>
+            <div class="col-lg-6 mx-auto text-center">
+                <img src="./images/partners/30.svg" alt="" class="img-fluid w-75">
+            </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="default ">
+    <div class="container">
+        <div class="row col-lg-11 mx-auto">
+            <div class="col-lg-6 mx-auto text-center">
+                <img src="./images/reports.svg" alt="" class="img-fluid w-100">
+            </div>
+            <div class="col-lg-6 py-5 mx-auto d-flex align-items-center justify-content-center">
+                <div>
+                    <h2 class="innerTitle fw-bold mb-0 fs-2">Downloadable reports </h2>
+                    <p class="innerText mb-0 mt-2">Export your inventory stock levels to a printable spreadsheet at any
+                        time. </p>
                 </div>
             </div>
         </div>
     </div>
 </section>
 
-
+<section class="default ">
+    <div class="container">
+        <div class="col-lg-9 mx-auto  py-4">
+            <h1 class="innerTitle text-center">Ezzah’s epos at a glance</h1>
+            <div class="row ">
+                <div class="col-lg-12">
+                    <ul class="list-group-custom mt-4">
+                        <li class="list-group-item-custom">Realtime inventory</li>
+                        <li class="list-group-item-custom">Purchase Management</li>
+                        <li class="list-group-item-custom">General accounts management</li>
+                        <li class="list-group-item-custom">Customer Management</li>
+                        <li class="list-group-item-custom">Inventory management</li>
+                        <li class="list-group-item-custom">Live chart</li>
+                        <li class="list-group-item-custom">Customer order system</li>
+                        <li class="list-group-item-custom">Unlimited products</li>
+                        <li class="list-group-item-custom">Sales management</li>
+                        <li class="list-group-item-custom">Product management</li>
+                        <li class="list-group-item-custom">Financial report</li>
+                        <li class="list-group-item-custom">Barcode and voucher printing</li>
+                        <li class="list-group-item-custom">Online catalogue</li>
+                        <li class="list-group-item-custom">Take orders online</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 
 <?php include 'footer.php';?>
