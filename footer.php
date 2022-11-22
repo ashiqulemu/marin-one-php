@@ -2,19 +2,18 @@
     <div class="footer-col">
         <div class="items">
             <div class="heading">features</div>
-            <a href="/features/analyze">CRM Easy</a>
-            <a href="/features/automate">Sales Management</a>
+            <a href="./crm-easy.php">CRM Easy</a>
+            <a href="./sales-management.php">Sales Management</a>
             <a href="./quotation.php">Quotation</a>
             <a href="./invoicing.php">Invoicing</a>
             <a href="./inventory.php">Inventory</a>
             <a href="./e-commerce.php">E-commerce</a>
             <a href="./e-pos.php">EPOS</a>
-            <a href="/features">All Features</a>
+            <!-- <a href="/features">All Features</a> -->
         </div>
         <div class="items">
             <div class="heading">Solutions</div>
             <a href="/solutions/paid-social">Search / Social Ads</a>
-
             <a href="/solutions/retail-and-marketplace-advertising">Retail / eCommerce</a>
             <a href="/industries/b2b">
                 Web Design

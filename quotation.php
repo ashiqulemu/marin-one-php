@@ -23,7 +23,6 @@
                     <div class="innerTitle">
                         A quotation with mistakes-
                         Never send again
-
                     </div>
                     <div class="innerText ">
                         Made up your design and content with the featured templates, oddments, and a central library of
