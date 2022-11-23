@@ -31,7 +31,7 @@
                 </div>
             </div>
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/stock.svg" class="w-100 mx-auto" alt="">
+                <img src="./images/tem-content.svg" class="w-75 mx-auto" alt="">
             </div>
         </div>
     </div>
@@ -40,7 +40,7 @@
     <div class="container">
         <div class="row col-lg-11 mx-auto">
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/revenue.svg" class="w-100 mx-auto" alt="">
+                <img src="./images/see-content.svg" class="w-75 mx-auto" alt="">
             </div>
             <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                 <div>

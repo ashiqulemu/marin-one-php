@@ -76,6 +76,10 @@ html {
   font-family: "OpensansLight";
 }
 
+.openBold {
+  font-family: "OpensansBold";
+}
+
 .sectitle {
   padding-bottom: 0.25rem;
   border-bottom: 4px solid #62b4e5;

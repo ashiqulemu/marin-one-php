@@ -13,15 +13,13 @@
         </div>
         <div class="items">
             <div class="heading">Solutions</div>
-            <a href="/solutions/paid-social">Search / Social Ads</a>
-            <a href="/solutions/retail-and-marketplace-advertising">Retail / eCommerce</a>
-            <a href="/industries/b2b">
-                Web Design
-            </a>
-            <a href="/solutions/software-development">Software Development</a>
-            <a href="/solutions/apps">Apps</a>
+            <a href="./search-social-ads.php">Search / Social Ads</a>
+            <a href="/e-commerce.php">Retail / eCommerce</a>
+            <a href="./web-design.php"> Web Design </a>
+            <a href="./software-development.php">Software Development</a>
+            <a href="./apps.php">Apps</a>
 
-            <a href="/solutions/datacentre">Data Centre Solutions and Decommissioning</a>
+            <a href="data-center-solution.php">Data Centre Solutions and Decommissioning</a>
         </div>
         <div class="items">
             <div class="heading">Industries</div>
