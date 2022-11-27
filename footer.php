@@ -14,7 +14,7 @@
         <div class="items">
             <div class="heading">Solutions</div>
             <a href="./search-social-ads.php">Search / Social Ads</a>
-            <a href="/e-commerce.php">Retail / eCommerce</a>
+            <a href="/e-commerce.php">eCommerce</a>
             <a href="./web-design.php"> Web Design </a>
             <a href="./software-development.php">Software Development</a>
             <a href="./apps.php">Apps</a>
@@ -25,33 +25,29 @@
             <div class="heading">Industries</div>
 
 
-            <a href="/industries/education">Education</a>
+            <a href="./education.php">Education</a>
 
 
-            <a href="/industries/local-agencies">Local Agencies</a>
-            <a href="/solutions/retail-and-marketplace-advertising">Retail</a>
+            <a href="./local-agency.php">Local Agencies</a>
+            <a href="./retail.php">Retail</a>
 
-            <a href="/industries/technology">Technology</a>
+            <a href="./technologies.php">Technology</a>
 
-            <a href="/industries/travel">Travel</a>
+            <a href="./travel.php">Travel</a>
         </div>
         <div class="items">
             <div class="heading">Why Ezzha Easy?</div>
-            <a href="/" class="footer_link w--current">Overview</a>
-            <a href="/customer-stories">Customer Stories</a>
+            <a href="./overview.php" class="footer_link w--current">Overview</a>
+            <a href="./customer-stories.php">Customer Stories</a>
 
         </div>
 
 
         <div class="items">
             <div class="heading">Privacy</div>
-            <a href="/privacy/privacy-central">Privacy Central</a>
-
-            <div class="">
-                <a href="#">Cookie
-                    Management</a>
-            </div>
-            <a href="/terms-of-use">Terms of Use</a>
+            <a href="./privacy-policy.php">Privacy Central</a> 
+            <a href="./cookie.php">Cookie Management</a> 
+            <a href="./terms-of-use.php">Terms of Use</a>
         </div>
     </div>
     <div class="container mx-auto text-white">

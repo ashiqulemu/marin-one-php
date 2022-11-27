@@ -1497,15 +1497,24 @@ footer .footer-col .items .heading {
 }
 .list-group-custom .list-group-item-custom {
   flex-basis: 23%;
-  padding: 6px 11px;
-  background: aliceblue;
+  padding: 12px 11px;
   font-size: 13px;
   font-weight: bold;
   color: #15467e;
-  border-left: 3px solid rgba(128, 128, 128, 0.1019607843);
+  box-shadow: 0px 5px 16px 0px rgba(0, 0, 0, 0.0509803922);
+  border: 1px solid rgba(211, 211, 211, 0.4196078431);
 }
 @media (max-width: 768px) {
   .list-group-custom .list-group-item-custom {
     flex-basis: 48%;
   }
+}
+.list-group-custom .list-group-item-custom:hover {
+  background: #00CFFB;
+  color: #fff;
+  font-weight: normal;
+}
+
+.text-justify {
+  text-align: justify;
 }/*# sourceMappingURL=app.css.map */

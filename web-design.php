@@ -42,7 +42,7 @@ During strategy on apart, an experienced website strategist collaborates with UX
                 </div>
             </div>
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/social-presents.svg" class="w-75 mx-auto" alt="">
+                <img src="./images/strategy.svg" class="w-100 mx-auto" alt="">
             </div>
         </div>
     </div>
@@ -51,7 +51,7 @@ During strategy on apart, an experienced website strategist collaborates with UX
     <div class="container">
         <div class="row col-lg-11 mx-auto">
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/audience.svg" class="w-100 mx-auto" alt="">
+                <img src="./images/Mobile wireframe-rafiki.svg" class="w-100 mx-auto" alt="">
             </div>
             <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                 <div>
@@ -87,7 +87,7 @@ The deliverables for the design phase are full-colour mock-ups of each template,
                 </div>
             </div>
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/engage-audience.svg" class="w-100 mx-auto" >
+                <img src="./images/Mobile wireframe-amico.svg" class="w-75 mx-auto" >
             </div>
         </div>
     </div>
@@ -96,7 +96,7 @@ The deliverables for the design phase are full-colour mock-ups of each template,
     <div class="container">
         <div class="row col-lg-11 mx-auto">
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/advertisement.svg" class="w-100 mx-auto" >
+                <img src="./images/keyword.svg" class="w-100 mx-auto" >
             </div>
             <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                 <div>
@@ -131,7 +131,7 @@ For that reason, each website we design is building with SEO front of mind. Our 
                 </div>
             </div>
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/boost-post-01.svg" class="w-100 mx-auto" alt="">
+                <img src="./images/seo.svg" class="w-100 mx-auto" alt="">
             </div>
         </div>
     </div>

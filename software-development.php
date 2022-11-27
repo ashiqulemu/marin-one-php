@@ -3,7 +3,7 @@
 <section class="  my-0 default listView">
     <div class="container">
         <div class="col-lg-9  mx-auto py-4 text-center">
-            <h1 class="innerTitle txt-secondary  fw-bold mb-3">Ezzha’s Software Development</h1>
+            <h1 class="innerTitle txt-secondary  fw-bold mb-3"> Ezzha’s Software Development </h1>
             
             
         </div> 
@@ -21,7 +21,7 @@ With Ezzha, you’re in safe hands along the way to develop your required softwa
         </p>
         </div>
 
-        <div class="col-lg-12 my-4">   </div>
+        <div class="col-lg-12 my-4"></div>
 
             <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                 <div>
@@ -36,7 +36,7 @@ With Ezzha, you’re in safe hands along the way to develop your required softwa
                 </div>
             </div>
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/social-presents.svg" class="w-75 mx-auto" alt="">
+                <img src="./images/software-plan.svg" class="w-100 mx-auto" alt="">
             </div>
         </div>
     </div>
@@ -45,7 +45,7 @@ With Ezzha, you’re in safe hands along the way to develop your required softwa
     <div class="container">
         <div class="row col-lg-11 mx-auto">
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/audience.svg" class="w-100 mx-auto" alt="">
+                <img src="./images/software-tech.svg" class="w-100 mx-auto" alt="">
             </div>
             <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                 <div>
@@ -87,7 +87,7 @@ With Ezzha, you’re in safe hands along the way to develop your required softwa
     <div class="container">
         <div class="row col-lg-11 mx-auto">
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/advertisement.svg" class="w-100 mx-auto" >
+                <img src="./images/soft-develop.svg" class="w-100 mx-auto" >
             </div>
             <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                 <div>
@@ -109,19 +109,17 @@ With Ezzha, you’re in safe hands along the way to develop your required softwa
     <div class="container">
         <div class="row col-lg-11 mx-auto"> 
             <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
-                <div>
-                   
+                <div>                   
                     <div class="innerTitle">
                     Testing
                     </div>
                     <div class="innerText">
                     Evaluating the quality of software with the aim of finding and fixing defects.
-
                     </div>
                 </div>
             </div>
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/boost-post-01.svg" class="w-100 mx-auto" alt="">
+                <img src="./images/software-test.svg" class="w-100 mx-auto" alt="">
             </div>
         </div>
     </div>
@@ -130,7 +128,7 @@ With Ezzha, you’re in safe hands along the way to develop your required softwa
     <div class="container">
         <div class="row col-lg-11 mx-auto">
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/advertisement.svg" class="w-100 mx-auto" >
+                <img src="./images/deploy.svg" class="w-100 mx-auto" >
             </div>
             <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                 <div>
@@ -162,7 +160,7 @@ With Ezzha, you’re in safe hands along the way to develop your required softwa
                 </div>
             </div>
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/boost-post-01.svg" class="w-100 mx-auto" alt="">
+                <img src="./images/maintainence.svg" class="w-100 mx-auto" alt="">
             </div>
         </div>
     </div>
