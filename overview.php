@@ -64,17 +64,13 @@
 <section class="default">
     <div class="container">
         <div class="row col-lg-11 mx-auto">
-
-            <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
-                <div>
-
+            <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center"><div>
                     <div class="innerTitle  ">
                     We Envision
                     </div>
                     <div class="innerText ">
                     To become a world-renowned innovation -driven digital solutions provider through delivering excellent customer experience.
                     </div>
-
                 </div>
             </div>
             <div class="col-lg-6  d-flex align-items-center">
