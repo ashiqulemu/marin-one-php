@@ -33,7 +33,7 @@
                 </div>
             </div>
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/stock.svg" class="w-100 mx-auto" alt="">
+                <img src="./images/we-are.svg" class="w-100 mx-auto" alt="">
             </div>
         </div>
     </div>
@@ -42,7 +42,7 @@
     <div class="container">
         <div class="row col-lg-11 mx-auto">
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/revenue.svg" class="w-100 mx-auto" alt="">
+                <img src="./images/our-mission.svg" class="w-100 mx-auto" >
             </div>
             <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                 <div>
@@ -93,7 +93,7 @@
                 <div class="col-lg-4">
                     <div class="infoBox text-white">
                         <div class="icon">
-                            <img class="img-fluid" src="./images/dabit.png">
+                            <img class="img-fluid" src="./images/leader.png">
                         </div>
                         <h5 class="text-light fw-bold mt-4">Awaken Leadership </h5>
                         <div class="boxText openLight">
@@ -104,7 +104,7 @@
                 <div class="col-lg-4 ">
                     <div class="infoBox text-white">
                         <div class="icon">
-                            <img class="img-fluid" src="./images/gpay.png">
+                            <img class="img-fluid" src="./images/crm.png">
                         </div>
                         <h5 class="text-light fw-bold mt-4">An exclusive but easy to use CRM/App</h5>
                         <div class="boxText openLight">Using most friendly CRM/App that gets everything done</div>
@@ -113,7 +113,7 @@
                 <div class="col-lg-4">
                     <div class="infoBox text-white">
                         <div class="icon">
-                            <img class="img-fluid" src="./images/g-card.png">
+                            <img class="img-fluid" src="./images/success.png">
                         </div>
                         <h5 class="text-light fw-bold mt-4">Accelerated Success </h5>
                         <div class="boxText openLight">Onboard any number of customer fast & efficiently
@@ -145,7 +145,7 @@
                 <div class="col-lg-4">
                     <div class="infoBox text-white">
                         <div class="icon">
-                            <img class="img-fluid" src="./images/pricing.png">
+                            <img class="img-fluid" src="./images/management.png">
                         </div>
                         <h5 class="text-light fw-bold mt-4"> Managing clients superb </h5>
                         <div class="boxText openLight">Gain and retain customers through amazing experiences
@@ -155,7 +155,7 @@
                 <div class="col-lg-4">
                     <div class="infoBox text-white">
                         <div class="icon">
-                            <img class="img-fluid" src="./images/transfer.png">
+                            <img class="img-fluid" src="./images/time.png">
                         </div>
                         <h5 class="text-light fw-bold mt-4">Master your time </h5>
                         <div class="boxText openLight">Make your workdays productive & organize </div>
@@ -164,7 +164,7 @@
                 <div class="col-lg-4">
                     <div class="infoBox text-white">
                         <div class="icon">
-                            <img class="img-fluid" src="./images/refund.png">
+                            <img class="img-fluid" src="./images/paid.png">
                         </div>
                         <h5 class="text-light fw-bold mt-4">Get paid</h5>
                         <div class="boxText openLight">Get your money in the bank on time n every time

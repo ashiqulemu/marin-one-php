@@ -38,8 +38,7 @@
             <div class="row col-lg-11 mx-auto">
 
                 <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
-                    <div>
-                        <!-- <h4 class="subtext">ANALYZE</h4> -->
+                    <div> 
                         <div class="innerTitle">
                       Tech in marketing 
                         </div>
@@ -56,7 +55,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6  d-flex align-items-center">
-                    <img src="./images/partners/31.svg" class="w-100 mt-5 mx-auto" alt="">
+                    <img src="./images/marketing.svg" class="w-100 mt-5 mx-auto">
                 </div>
             </div>
         </div>
@@ -65,7 +64,7 @@
         <div class="container">
             <div class="row col-lg-11 mx-auto">
                 <div class="col-lg-6  d-flex align-items-center">
-                    <img src="./images/partners/32.svg" class="w-100 mt-5 mx-auto" alt="">
+                    <img src="./images/analytics.svg" class="w-100 mt-5 mx-auto">
                 </div>
                 <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                     <div>
@@ -93,8 +92,7 @@
             <div class="row col-lg-11 mx-auto">
 
                 <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
-                    <div>
-                        <!-- <h4 class="subtext">ANALYZE</h4> -->
+                    <div> 
                         <div class="innerTitle">
                         Follow-ups will stay on top
                         </div>
@@ -105,13 +103,12 @@
                             <li class="list-theme"> Select from a list of email templates, personalize the templates, and set up email delivery timelines </li>
                             <li class="list-theme"> Schedule follow-up emails based on activity or time-based triggers
                              </li>
-                            <li class="list-theme"> Track how the emails are performing and tailor the perfect outreach for your audience.  </li>
-                             
+                            <li class="list-theme"> Track how the emails are performing and tailor the perfect outreach for your audience.  </li>                             
                         </ul> 
                     </div>
                 </div>
                 <div class="col-lg-6  d-flex align-items-center">
-                    <img src="./images/partners/31.svg" class="w-100 mt-5 mx-auto" alt="">
+                    <img src="./images/Editing body text-rafiki.svg" class="w-100 mt-5 mx-auto">
                 </div>
             </div>
         </div>
@@ -120,7 +117,7 @@
         <div class="container">
             <div class="row col-lg-11 mx-auto">
                 <div class="col-lg-6  d-flex align-items-center">
-                    <img src="./images/partners/32.svg" class="w-100 mt-5 mx-auto" alt="">
+                    <img src="./images/Ecommerce web page-pana.svg" class="w-100 mt-5 mx-auto">
                 </div>
                 <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                     <div> 
@@ -152,7 +149,7 @@
                     </div>
                 </div>
                 <div class="col-lg-6  d-flex align-items-center">
-                    <img src="./images/partners/31.svg" class="w-100 mt-5 mx-auto" alt="">
+                    <img src="./images/Printing invoices-bro.svg" class="w-100 mt-5 mx-auto">
                 </div>
             </div>
         </div>
@@ -160,7 +157,6 @@
     <section class=" default pt-0">
         <div class="container">
             <div class="row col-lg-11 mx-auto">
-
                 <div class="col-lg-12 ps-4  pt-4 d-flex align-items-center">
                     <div>  
                         <div class="innerText text-center">

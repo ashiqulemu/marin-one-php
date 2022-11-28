@@ -28,7 +28,7 @@
                 </div>
             </div>
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/social-presents.svg" class="w-75 mx-auto" alt="">
+                <img src="./images/collaborate.svg" class="w-75 mx-auto" alt="">
             </div>
         </div>
     </div>
@@ -37,7 +37,7 @@
     <div class="container">
         <div class="row col-lg-11 mx-auto">
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/audience.svg" class="w-100 mx-auto" alt="">
+                <img src="./images/influencer.svg" class="w-100 mx-auto" alt="">
             </div>
             <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                 <div>
@@ -61,8 +61,7 @@
         <div class="row col-lg-11 mx-auto">
         <div class="col-lg-12 txt-secondary fs-3 text-center openBold lh-2 innerTitle">
         Handle a massive loaded fusions with ease
-        </div>
-           
+        </div> 
         </div>
     </div>
 </section>
@@ -71,7 +70,7 @@
     <div class="container">
         <div class="row col-lg-11 mx-auto">
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/audience.svg" class="w-100 mx-auto" alt="">
+                <img src="./images/course.svg" class="w-100 mx-auto" alt="">
             </div>
             <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                 <div>
@@ -117,7 +116,7 @@
     <div class="container">
         <div class="row col-lg-11 mx-auto">
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/audience.svg" class="w-100 mx-auto" alt="">
+                <img src="./images/remote.svg" class="w-100 mx-auto" alt="">
             </div>
             <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                 <div>                   
@@ -149,7 +148,7 @@
                 </div>
             </div>
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/social-presents.svg" class="w-75 mx-auto" alt="">
+                <img src="./images/apps-update.svg" class="w-75 mx-auto" alt="">
             </div>
         </div>
     </div>
@@ -190,7 +189,7 @@
                 </div>
             </div>
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/social-presents.svg" class="w-75 mx-auto" alt="">
+                <img src="./images/enroll.svg" class="w-75 mx-auto">
             </div>
         </div>
     </div>

@@ -24,7 +24,7 @@ If your local agency needs a quick way to dispatch unique messages to constituen
                 </div>
             </div>
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/social-presents.svg" class="w-75 mx-auto" alt="">
+                <img src="./images/support.svg" class="w-100 mx-auto" alt="">
             </div>
         </div>
     </div>
@@ -33,7 +33,7 @@ If your local agency needs a quick way to dispatch unique messages to constituen
     <div class="container">
         <div class="row col-lg-11 mx-auto">
             <div class="col-lg-6  d-flex align-items-center">
-                <img src="./images/audience.svg" class="w-100 mx-auto" alt="">
+                <img src="./images/monitoring.svg" class="w-100 mx-auto" alt="">
             </div>
             <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                 <div>

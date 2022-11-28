@@ -224,6 +224,10 @@ html {
     text-align: center;
   }
 }
+.innerTitle iconify-icon {
+  font-size: 3rem;
+  margin-right: 0.7rem;
+}
 
 .innerText {
   margin-bottom: 35px;

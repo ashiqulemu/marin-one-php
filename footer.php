@@ -8,13 +8,12 @@
             <a href="./invoicing.php">Invoicing</a>
             <a href="./inventory.php">Inventory</a>
             <a href="./e-commerce.php">E-commerce</a>
-            <a href="./e-pos.php">EPOS</a>
-            <!-- <a href="/features">All Features</a> -->
+            <a href="./e-pos.php">EPOS</a> 
         </div>
         <div class="items">
             <div class="heading">Solutions</div>
             <a href="./search-social-ads.php">Search / Social Ads</a>
-            <a href="/e-commerce.php">eCommerce</a>
+            <a href="./e-commerce.php">eCommerce</a>
             <a href="./web-design.php"> Web Design </a>
             <a href="./software-development.php">Software Development</a>
             <a href="./apps.php">Apps</a>
@@ -23,26 +22,17 @@
         </div>
         <div class="items">
             <div class="heading">Industries</div>
-
-
             <a href="./education.php">Education</a>
-
-
             <a href="./local-agency.php">Local Agencies</a>
             <a href="./retail.php">Retail</a>
-
             <a href="./technologies.php">Technology</a>
-
             <a href="./travel.php">Travel</a>
         </div>
         <div class="items">
             <div class="heading">Why Ezzha Easy?</div>
             <a href="./overview.php" class="footer_link w--current">Overview</a>
             <a href="./customer-stories.php">Customer Stories</a>
-
         </div>
-
-
         <div class="items">
             <div class="heading">Privacy</div>
             <a href="./privacy-policy.php">Privacy Central</a> 

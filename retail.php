@@ -65,11 +65,10 @@ Order Fulfilment, Payment Process, Retail Management, Point-Of-Sale EPOS
                         <div class="innerText ">
                         Discover insights of your business with Ezzha’s analytics and advanced reporting options and easily export your data to add it to your own.
                         </div>
-                     
                     </div>
                 </div>
                 <div class="col-lg-6  d-flex align-items-center">
-                    <img src="./images/partners/31.svg" class="w-100 mt-5 mx-auto" alt="">
+                    <img src="./images/reports.svg" class="w-100 mt-5 mx-auto" alt="">
                 </div>
             </div>
         </div>
@@ -78,7 +77,7 @@ Order Fulfilment, Payment Process, Retail Management, Point-Of-Sale EPOS
         <div class="container">
             <div class="row col-lg-11 mx-auto">
                 <div class="col-lg-6  d-flex align-items-center">
-                    <img src="./images/partners/32.svg" class="w-100 mt-5 mx-auto" alt="">
+                    <img src="./images/sales-report.svg" class="w-100 mt-5 mx-auto" alt="">
                 </div>
                 <div class="col-lg-6 ps-4  pt-4 d-flex align-items-center">
                     <div>
@@ -113,7 +112,7 @@ Order Fulfilment, Payment Process, Retail Management, Point-Of-Sale EPOS
                     </div>
                 </div>
                 <div class="col-lg-6  d-flex align-items-center">
-                    <img src="./images/partners/31.svg" class="w-100 mt-5 mx-auto" alt="">
+                    <img src="./images/inventory-management.svg" class="w-100 mt-5 mx-auto" alt="">
                 </div>
             </div>
         </div>
@@ -155,7 +154,7 @@ Order Fulfilment, Payment Process, Retail Management, Point-Of-Sale EPOS
                     </div>
                 </div>
                 <div class="col-lg-6  d-flex align-items-center">
-                    <img src="./images/partners/31.svg" class="w-100 mt-5 mx-auto" alt="">
+                    <img src="./images/reports-downloadable.svg" class="w-100 mt-5 mx-auto" alt="">
                 </div>
             </div>
         </div>

@@ -177,9 +177,8 @@
                                 </ul>
                             </li> -->
                             <li class="nav-item">
-                                <a class="nav-link" href="signup.php">
-                                    <span class="iconify fs-2 txt-primary"
-                                        data-icon="carbon:user-avatar-filled-alt"></span>
+                                <a class="nav-link" href="signup.php"> 
+                                        <iconify-icon icon="ph:user-circle-light"class="iconify fs-2 txt-primary"></iconify-icon>
                                 </a>
                             </li>
                             <li class="nav-item d-flex align-items-center">
@@ -187,7 +186,8 @@
                             </li>
                             <li class="nav-item">
                                 <a class="nav-link" href="">
-                                    <span class="iconify fs-3 txt-dark" data-icon="bi:search"></span>
+                                     <iconify-icon icon="ic:sharp-search" class="iconify fs-3 txt-dark"></iconify-icon>
+                                    <!-- <span  data-icon="bi:search"></span> -->
                                 </a>
                             </li>
                         </ul>
